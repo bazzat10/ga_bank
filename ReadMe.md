@@ -1,4 +1,4 @@
-### General Assembly Bank ATM
+### **General Assembly Bank ATM**
 
 One of my first 'apps' I have created in General Assembly.
 
