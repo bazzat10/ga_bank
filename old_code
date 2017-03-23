@@ -1,0 +1,45 @@
+//
+// //var clearInputCheckingAccount = document.querySelector('.checking-input')
+// var clearInputSavingsAccount = document.querySelector('.savings-input')
+//
+// //var checkingBalance = document.querySelector('.checking-balance-output');
+// var savingsBalance = document.querySelector('.savings-balance-input');
+
+
+//Diferrent way of selecting DOM
+// clearInputCheckingAccount.addEventListener('click', function(){
+//   clearInputCheckingAccount.value = '';
+// });
+
+//
+// clearInputSavingsAccount.addEventListener('click', function(){
+//   clearInputSavingsAccount.value = '';
+// });
+
+// USES IDs to listen for events.
+// document.querySelector('.checking-withdraw-btn').addEventListener('click',function(){
+//   var checkingWithdraw = document.querySelector('.checkingInput');
+//   checking = checking - (+checkingWithdraw.value);
+//   checkingBalance.textContent = '$' + checking;
+//
+// });
+
+// checkingDepositBtn.addEventListener('click', function(){
+//   var checkingDeposit = document.querySelector('.checkingInput');
+//   checking = checking + (+checkingDeposit.value);
+//   checkingBalance.textContent = '$' + checking;
+// });
+
+
+// savingsWithdrawBtn.addEventListener('click', function(){
+//   var savingsWithdraw = document.querySelector('.savingsInput');
+//   savings = savings - (+savingsWithdraw.value);
+//   savingsBalance.textContent = '$' + savings;
+// })
+
+//
+// savingsDepositBtn.addEventListener('click', function(){
+//   var savingsDeposit = document.querySelector('.savingsInput');
+//   savings = savings + (+savingsDeposit.value);
+//   savingsBalance.textContent = '$' + savings;
+// })
